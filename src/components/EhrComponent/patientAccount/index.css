@@ -1,0 +1,45 @@
+.fullw10  label{
+    display: block;
+}
+a{
+    color: aliceblue;
+}
+
+textarea{
+    width: 100%;
+}
+/* """""""""""""  Menu  """"""""""" */
+a.active{
+    color: rgb(151, 47, 47);
+    border-bottom: 1px solid black;
+}
+
+.menu{
+    color: white;
+    width: 100%;
+    line-height: 60px;
+    background-color: #3d67ca;
+    display: flex;
+    justify-content: space-around;
+}
+
+.padd{
+    padding-right: 15em;
+}
+
+.winew{
+    width: 40%;
+    height: 80px;
+}
+
+.wnew{
+     width: 60%;
+    height: 150px;
+
+}
+
+
+.abc input[type="checkbox"]{
+  width: 30px; 
+  height: 30px; 
+}

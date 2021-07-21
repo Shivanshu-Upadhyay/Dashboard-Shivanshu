@@ -1,0 +1,106 @@
+.button1{
+  width: 200px !important;
+    height: 30px !important;
+    font-size: 17px !important;
+    text-align: center !important;
+    margin-left: 4px !important;
+    color: black !important;
+    font-weight: bold !important;
+    margin-top: 20px !important;
+    padding-top:25px !important;
+     padding-bottom:25px !important;
+     border-radius:25px !important; 
+      background:#A9A9A9 !important;
+      text-transform: capitalize !important;
+      line-height: 15px !important;
+ 
+}
+
+.button1:hover{
+    color: whitesmoke !important;
+    background-color: #606060 !important;
+    transition: 0.5s !important; 
+}
+ 
+
+.clickButton {
+  width: 200px !important;
+    height: 30px !important;
+    font-size: 17px !important;
+    text-align: center !important;
+    margin-left: 4px !important;
+    color: white !important;
+    font-weight: bold !important;
+    margin-top: 20px !important;
+    padding-top:25px !important;
+     padding-bottom:25px !important;
+     border-radius:25px !important; 
+  background: #606060 !important;
+  text-transform: capitalize !important;
+
+}
+
+.button1:active{
+  color: whitesmoke !important;
+    background-color: #606060 !important;
+}
+
+.button2 {
+
+ width: 200px !important;
+    height: 30px !important;
+    font-size: 17px !important;
+    text-align: center !important;
+    font-weight: bold !important;
+    margin-left: 20px !important;
+    margin-top: 20px !important;
+    color: black !important;
+    padding-top:25px !important;
+    padding-bottom:25px !important;
+    border-radius:25px !important; 
+    background:#A9A9A9 !important;
+     text-transform: capitalize !important;
+     text-transform: capitalize !important;
+}
+
+
+
+.button2:hover{
+    color: whitesmoke !important;
+    background-color: #606060 !important;
+    transition: 0.5s !important; 
+}
+
+
+.button2:active{
+color: whitesmoke !important;
+    background-color: #606060 !important;
+
+}
+.btn3{
+  width: 218px;
+    height: 37px;
+    font-size: 15px !important;
+    text-align: center;
+    background-image: linear-gradient(to right,#00EDFF,#0047ab);
+    text-transform: capitalize !important;
+    
+}
+
+.space{
+  display: flex;
+  justify-content: space-around;
+}
+
+.btn4{
+
+  float: right;
+    width: 218px;
+    margin-top: 5px;
+    background-image: linear-gradient(to right,#FF8585,#F48B29 );
+    color: white;
+    font-weight: 'bold' !important;
+    text-transform: capitalize !important;
+       
+}
+

@@ -1,0 +1,67 @@
+.fullw10 label{
+    display: block;
+}
+
+.fullw100 input{
+    width: 100%;
+}
+
+textarea{
+    width: 100%;
+}
+.widthsame{
+    width: 250px;
+    
+}
+
+
+.lastw{
+    width: 100%;
+
+}
+
+.bold{
+    font-weight: bold;
+}
+
+
+.bold1{
+    font-size: large;
+}
+
+.w50{
+    width: 50%;
+}
+
+.wnew{
+
+ width: 90%;
+ height: 15rem;
+
+}
+
+
+.bodychart{
+    width: 95%;
+    height: 25em;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+  
+.wsame{
+    width: 165px;
+    margin-right: 5em;
+}
+
+.newinput{
+    width: 15em;
+}
+  
+.wid{
+    width: 30em;
+    
+}
+.widt{
+
+    width: 30rem;
+}
